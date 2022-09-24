@@ -3,7 +3,7 @@
 //
 #include "mmap_file_buffer.hpp"
 #include "dji_log.hpp"
-#include <string.h>
+
 
 namespace DJI {
 namespace OSDK {

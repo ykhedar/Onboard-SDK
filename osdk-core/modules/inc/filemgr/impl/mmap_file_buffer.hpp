@@ -13,6 +13,11 @@
 #include <memory>
 #include <atomic>
 
+#include <string>
+#include <iostream>
+#include <cstdio>
+#include <cstring>
+
 namespace DJI {
 namespace OSDK {
 class MmapFileBuffer {
